@@ -15,7 +15,7 @@ For the year:
 - [ ] Read *The Infinite and the Divine*
 
 ## February
-- [ ] Read Ahriman Book 1
+- [ ] Read Ahriman Exile
 - [ ] Furnish Son's room
 - [ ] Unpack
 - [ ] Select Faction to focus on
